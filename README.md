@@ -1,7 +1,7 @@
 # codepathweek9
 # Project 9 Lab- Into the Packets
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 ## Lab
 milestones 0-2: I think my video was too long because giphy get crashing, I can send it to you though if you need to see it
 milestone 3:https://media.giphy.com/media/kiJ0B8HkTieHpyhpM1/giphy.gif
