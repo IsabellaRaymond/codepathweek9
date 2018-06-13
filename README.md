@@ -12,7 +12,7 @@ milestone 7:https://media.giphy.com/media/5h3He9zTgqQ4NLjVmw/giphy.gif
 I had trouble on 7, it wouldn't show the handhake.  I am going to go back to this one and troubleshoot.
 
 ## Assignment:HoneyPot
-I am going to add the GIf because it was having...issues
+https://imgur.com/yyejpI5
 
 Which Honeypot(s) you deployed honeypot-ggil 
 Any issues you encountered step 2 kpet giving me an error message, installing the mnh admin application
